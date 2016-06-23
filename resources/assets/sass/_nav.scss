@@ -1,0 +1,13 @@
+$primaryNavColor: #efefef;
+
+
+.nav
+{
+    border: none;
+    background-color: $primaryNavColor;
+    font-family: 'Volkhov', serif;
+    &__brand
+    {
+      font-size: 25px;
+    }
+}
